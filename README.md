@@ -1,9 +1,9 @@
-## Useful tutorials:
+## Sandbox for Auth:
 
-Setting up routing:
+This is a fully functional front end for the AWS Cognito backend.
 
-https://codeburst.io/getting-started-with-react-router-5c978f70df91
+The following is supported:
 
-Building a login page:
-
-https://serverless-stack.com/chapters/create-a-login-page.html
+1. Registering a new user (with email verification)
+2. Changing Passwords (with email verification)
+3. Logging in
